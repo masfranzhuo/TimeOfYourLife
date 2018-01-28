@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Time of Your Life</string>
+    <string name="about_subtitle">This application is inspired by Rando Kim book, Time of Your Life.</string>
+    <string name="about_content">The formula of this application assume that average human age is 80 years old. So if we compare it to 24 hours, then 80 years old is 24 hours and 40 years old is 12 hours which is exactly at noon. From here we could get the formula that one year is equal to 18 minutes. How about your age? What time is it? Don\'t worry, you don\'t need to calculate it. This application will help you. All you need to do is provide us your age and this application will calculate your time of life.</string>
 </resources>
